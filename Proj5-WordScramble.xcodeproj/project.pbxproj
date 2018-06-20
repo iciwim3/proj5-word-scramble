@@ -13,7 +13,7 @@
 		43C67C9520DA6A87002AE0C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43C67C9420DA6A87002AE0C7 /* Assets.xcassets */; };
 		43C67C9820DA6A87002AE0C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43C67C9620DA6A87002AE0C7 /* LaunchScreen.storyboard */; };
 		43C67CA020DA6C70002AE0C7 /* Identifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C67C9F20DA6C70002AE0C7 /* Identifiers.swift */; };
-		43C67CA220DA6D29002AE0C7 /* project5-files in Resources */ = {isa = PBXBuildFile; fileRef = 43C67CA120DA6D29002AE0C7 /* project5-files */; };
+		43C67CA420DA73E4002AE0C7 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 43C67CA320DA73E4002AE0C7 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		43C67C9720DA6A87002AE0C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		43C67C9920DA6A87002AE0C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		43C67C9F20DA6C70002AE0C7 /* Identifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Identifiers.swift; sourceTree = "<group>"; };
-		43C67CA120DA6D29002AE0C7 /* project5-files */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "project5-files"; sourceTree = "<group>"; };
+		43C67CA320DA73E4002AE0C7 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 				43C67C8D20DA6A86002AE0C7 /* AppDelegate.swift */,
 				43C67C8F20DA6A86002AE0C7 /* ViewController.swift */,
 				43C67C9120DA6A86002AE0C7 /* Main.storyboard */,
-				43C67CA120DA6D29002AE0C7 /* project5-files */,
+				43C67CA320DA73E4002AE0C7 /* start.txt */,
 				43C67C9420DA6A87002AE0C7 /* Assets.xcassets */,
 				43C67C9620DA6A87002AE0C7 /* LaunchScreen.storyboard */,
 				43C67C9920DA6A87002AE0C7 /* Info.plist */,
@@ -129,8 +129,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				43C67C9820DA6A87002AE0C7 /* LaunchScreen.storyboard in Resources */,
+				43C67CA420DA73E4002AE0C7 /* start.txt in Resources */,
 				43C67C9520DA6A87002AE0C7 /* Assets.xcassets in Resources */,
-				43C67CA220DA6D29002AE0C7 /* project5-files in Resources */,
 				43C67C9320DA6A86002AE0C7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

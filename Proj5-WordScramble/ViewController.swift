@@ -24,7 +24,7 @@ class ViewController: UITableViewController {
                 allWords = ["silkworm"]
             }
         }
-        
+        startGame()
     }
 
     func startGame() {
